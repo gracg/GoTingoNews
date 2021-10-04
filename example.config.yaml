@@ -1,0 +1,11 @@
+Database:
+  Database: example
+  User: example
+  Password: example
+  Host: 127.0.0.1
+  Port: 5432
+
+Port : 8081
+Host : 127.0.0.1
+Domain : http://example.com
+Key : 123456789
